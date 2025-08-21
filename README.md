@@ -32,7 +32,7 @@
 - Defined security groups to enforce controlled ingress and egress traffic.
 - Automated deployments with Terraform scripts, scaling to launch multiple VMs efficiently.
 
-<!--📂 [View Project Repo](https://github.com/your-username/terraform-policy-code)  -->
+📂 [View Project Repo](Terraform)  
 
 ---
 <!--
