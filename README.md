@@ -23,7 +23,7 @@
 📂 [View Project Repo](Vagrant) 
 
 ---
-<!--
+
 ### 2. Infrasctructure-as-code using Terraform 
 **Learned**:  
 - Built compliant cloud infrastructure using Terraform as Infrastructure-as-Code (IaC).
